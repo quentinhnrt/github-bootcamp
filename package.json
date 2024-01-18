@@ -1,5 +1,5 @@
 {
-  "name": "ex1-2",
+  "name": "github-bootcamp",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --hot --config ./webpack.config.js",
