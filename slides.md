@@ -117,3 +117,12 @@ Push changes to remote repository
 ```bash
 gp
 ```
+
+---
+
+# Pulling changes from remote
+
+Pull changes from remote repository
+```bash
+gl
+```
