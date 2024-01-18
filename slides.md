@@ -236,3 +236,5 @@ git commit --amend -m "New commit message"
 ```bash
 git rebase <branch>
 ```
+
+__What’s happening__: `-i` puts rebase in “interactive mode”. It starts off like the rebase discussed above, but before replaying any commits, it pauses and allows you to gently modify each commit as it’s replayed.
