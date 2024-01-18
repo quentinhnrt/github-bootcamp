@@ -4,9 +4,11 @@
   "scripts": {
     "start": "webpack-dev-server --hot --config ./webpack.config.js",
     "clean": "rimraf public",
-    "build": "webpack --config ./webpack.config.js --mode production"
+    "build": "webpack --config ./webpack.config.js --mode production",
+    "changelog": "auto-changelog -p && git add CHANGELOG.md"
   },
   "dependencies": {
+    "auto-changelog": "^2.4.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "spectacle": "^10.1.7"
