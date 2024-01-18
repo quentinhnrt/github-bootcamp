@@ -26,4 +26,4 @@ Add any other context about the problem here.
 If applicable, add screenshots to help explain your problem.
 
 ## Code snippets
-If applicable, add code samples to help explain your problem.
+If applicable, add code samples to help explain your problem
