@@ -1,4 +1,5 @@
 --- { "layout" : "center" }
+
 # GitHub Bootcamp
 
 # Quentin Honnart
@@ -8,6 +9,7 @@
 # How to initialise a new repository
 
 Create local repository
+
 ```bash
 git init
 ```
@@ -15,24 +17,29 @@ git init
 #### Optional : Create a remote repository
 
 Add remote repository to local repository
+
 ```bash
 gra <remote-name> <remote-url>
 ```
+
 ---
 
 # How to review changes
 
 Check modified files
+
 ```bash
 gss
 ```
 
 Add all files to staging
+
 ```bash
 gaa
 ```
 
 Verify if there's any file that you don't want to commit
+
 ```bash
 gss
 ```
@@ -42,6 +49,7 @@ gss
 # How to commit changes
 
 Commit your changes
+
 ```bash
 gcmsg "Initial commit"
 ```
@@ -49,6 +57,7 @@ gcmsg "Initial commit"
 #### Optional : Push to remote repository
 
 Push your changes to remote repository
+
 ```bash
 gp
 ```
@@ -109,11 +118,13 @@ gbd <branch-name>
 # Pushing changes to remote
 
 If not already done, add remote repository to local repository
+
 ```bash
 gra <remote-name> <remote-url>
 ```
 
 Push changes to remote repository
+
 ```bash
 gp
 ```
@@ -123,6 +134,7 @@ gp
 # Pulling changes from remote
 
 Pull changes from remote repository
+
 ```bash
 gl
 ```
@@ -159,8 +171,11 @@ Some content
 > Some quote
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
+
 #### Header 4
 
 ---
@@ -181,8 +196,8 @@ console.log("Hello World")
 
 * [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
 
-| Header 1 | Header 2 | 
-| -------- | -------- |
+| Header 1  | Header 2  | 
+|-----------|-----------|
 | Content 1 | Content 2 |
 | Content 3 | Content 4 |
 
@@ -205,3 +220,15 @@ git stash
 ```bash
 git stash pop
 ```
+
+---
+
+# How to fix the last commit message
+
+```bash
+git commit --amend
+or
+git commit --amend -m "New commit message"
+```
+
+
