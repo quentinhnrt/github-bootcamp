@@ -76,3 +76,20 @@ gcb <branch-name>
 * Verify changes again to make sure you don't commit anything you don't want to
 * Commit changes
 * Push changes to remote repository ** (optional) **
+
+---
+
+# Merge branch to ***main***
+
+* Via merge command
+
+```bash
+gc <branch-to-merge-into>
+gm <branch-to-merge>
+```
+
+* Via pull request
+
+```bash
+gh pr create --base <branch-to-merge-into> --head <branch-to-merge> --title <title> --body <body>
+```
