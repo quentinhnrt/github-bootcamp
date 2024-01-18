@@ -57,7 +57,7 @@ gp
 
 ```bash
 gb <branch-name>
-gc <branch-name>
+gco <branch-name>
 ```
 
 #### ShortHand
@@ -84,7 +84,7 @@ gcb <branch-name>
 * Via merge command
 
 ```bash
-gc <branch-to-merge-into>
+gco <branch-to-merge-into>
 gm <branch-to-merge>
 ```
 
