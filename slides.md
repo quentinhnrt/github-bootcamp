@@ -165,3 +165,14 @@ Some content
 
 ---
 
+# Code
+
+```bash
+echo "Hello World"
+```
+
+```javascript
+console.log("Hello World")
+```
+
+---
