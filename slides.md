@@ -53,4 +53,15 @@ gp
 
 ---
 
-## Happy Hacking
+# Create a new branch
+
+```bash
+gb <branch-name>
+gc <branch-name>
+```
+
+#### ShortHand
+
+```bash
+gcb <branch-name>
+```
