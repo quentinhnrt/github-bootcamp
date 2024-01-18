@@ -1,6 +1,8 @@
 --- { "layout" : "center" }
 # GitHub Bootcamp
 
+# Quentin Honnart
+
 ---
 
 # How to initialise a new repository
