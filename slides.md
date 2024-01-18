@@ -193,3 +193,15 @@ console.log("Hello World")
 ---
 
 # How to apply commit
+
+---
+
+# How to use git fragments
+
+```bash
+git stash
+```
+
+```bash
+git stash pop
+```
