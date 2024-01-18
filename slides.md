@@ -126,3 +126,9 @@ Pull changes from remote repository
 ```bash
 gl
 ```
+
+---
+
+# SWAG
+
+---
