@@ -205,7 +205,3 @@ git stash
 ```bash
 git stash pop
 ```
-
----
-
-# This one will be reverted
