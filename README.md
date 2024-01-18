@@ -1,15 +1,19 @@
-# ex1.2
+# Github Bootcamp
 
-Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
+Slides used for learning how to use git and github.
 
-## Running your presentation
+## Installation
 
-- Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
-- Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
-- Edit `index.tsx to add your presentation content.
+Use npm version 18.19.0 or higher to install the dependencies.
 
-## Building you presentation
+```bash
+npm install
+npm run start
+```
 
-To build your presentation for a production deploy, run `yarn build` (or `npm build` or `pnpm build`).
+## Contributing
 
-The build artifacts will be placed in the `dist` directory. If you'd like to change this location, edit `output.path` in `webpack.config.js`.
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
