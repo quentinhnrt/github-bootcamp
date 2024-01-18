@@ -231,4 +231,8 @@ or
 git commit --amend -m "New commit message"
 ```
 
+# How to rebase
 
+```bash
+git rebase <branch>
+```
