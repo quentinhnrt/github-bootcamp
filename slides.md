@@ -93,3 +93,9 @@ gm <branch-to-merge>
 ```bash
 gh pr create --base <branch-to-merge-into> --head <branch-to-merge> --title <title> --body <body>
 ```
+
+# Delete a branch
+
+```bash
+gbd <branch-name>
+```
