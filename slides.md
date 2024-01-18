@@ -65,3 +65,14 @@ gc <branch-name>
 ```bash
 gcb <branch-name>
 ```
+
+---
+
+# Work on a branch
+
+* Make changes
+* Verify changes
+* Add changes to staging
+* Verify changes again to make sure you don't commit anything you don't want to
+* Commit changes
+* Push changes to remote repository ** (optional) **
