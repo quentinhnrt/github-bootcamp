@@ -103,3 +103,26 @@ gh pr create --base <branch-to-merge-into> --head <branch-to-merge> --title <tit
 ```bash
 gbd <branch-name>
 ```
+
+---
+
+# Pushing changes to remote
+
+If not already done, add remote repository to local repository
+```bash
+gra <remote-name> <remote-url>
+```
+
+Push changes to remote repository
+```bash
+gp
+```
+
+---
+
+# Pulling changes from remote
+
+Pull changes from remote repository
+```bash
+gl
+```
