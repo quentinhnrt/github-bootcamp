@@ -187,3 +187,6 @@ console.log("Hello World")
 | Content 3 | Content 4 |
 
 ---
+
+# How to automate issue closing
+
