@@ -231,4 +231,8 @@ or
 git commit --amend -m "New commit message"
 ```
 
+---
 
+## Quentin Honnart
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
