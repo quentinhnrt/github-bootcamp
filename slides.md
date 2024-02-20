@@ -231,4 +231,6 @@ or
 git commit --amend -m "New commit message"
 ```
 
+---
 
+# Working together on the same branch
